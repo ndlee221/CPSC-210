@@ -1,0 +1,16 @@
+{
+  "list": [
+    {
+      "name": "alex",
+      "description": "short",
+      "priority": false,
+      "completed": false
+    },
+    {
+      "name": "peter",
+      "description": "handsome",
+      "priority": false,
+      "completed": true
+    }
+  ]
+}
